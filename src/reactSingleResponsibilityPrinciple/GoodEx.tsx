@@ -1,6 +1,6 @@
 import { useFetchTodo } from "./useFetchTodo";
 
-export const Todo = () => {
+export const TodoList = () => {
   const { todo, isFetching } = useFetchTodo();
 
   if (isFetching) {

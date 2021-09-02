@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Todo } from "./reactSingleResponsibilityPrinciple/Todo";
+import { Todo } from "./reactDependencyInversionPrinciple/GoodEx";
 
 ReactDOM.render(
   <React.StrictMode>
